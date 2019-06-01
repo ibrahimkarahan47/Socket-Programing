@@ -1,1 +1,1 @@
-# Socket_Programing_With_Python_OnlineQuizExample
+Online quiz program is written with python socket programing. Program is built on one server and multiple client platform. TCP is used for communication between server and client. In online quiz program, there are 5 question about computer communication. Question should answer in 10 seconds otherwise you get zero point. Each question is 1 point. After 5 question, you can see total result which get from quiz.
